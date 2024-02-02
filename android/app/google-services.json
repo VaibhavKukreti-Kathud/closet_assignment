@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "653406137163",
+    "project_id": "closet-assignment-eeedb",
+    "storage_bucket": "closet-assignment-eeedb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653406137163:android:a7de669be81e66d4ae96ce",
+        "android_client_info": {
+          "package_name": "com.example.closet_assignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFCCwADD_062x0h99VUSa-dychR5Xwp9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
